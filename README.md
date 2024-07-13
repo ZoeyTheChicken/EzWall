@@ -4,8 +4,7 @@
 
 We cannot wait to help you organize all of your nice wallpapers into one place.
 
-# With the power of our custom wallpaper library - WinNTUX
-  WinNTUX is an upcoming open source library for handling wallpapers on Windows 10 and Windows 11.
-  WinNTUX is a fast library made in C# for all .NET Framework C# applications!
-  WinNTUX is coming to more languages soon!
-  It is compatible with all .NET Framework based applications. Console Apps, WPF, and Windows Forms!
+# With the power of WinNTUX, our upcoming Open Source Wallpaper Library for C# Apps!
+## With WinNTUX, you can enjoy fast wallpaper switching!
+## We provide support for Windows 11 and Windows 10
+## Now with help from EzWallHelper!
